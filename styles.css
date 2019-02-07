@@ -1,0 +1,21 @@
+div {
+    font-size: 20px;
+}
+
+html {
+    font-size: 18px;
+}
+.rem {
+    display:inline-block;
+}
+
+.em {
+    padding: 2em;
+    font-size: 5em;
+    margin-bottom: 1em;
+    background-color: grey;
+}
+.rem {
+    padding: 3rem;
+    background-color: cyan;
+}
